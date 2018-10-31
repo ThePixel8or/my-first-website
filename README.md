@@ -1,26 +1,19 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My Very First Web Page
 
+This is my first web page that I created as a student Full Stack Developer @ Code Institute
 
-Hi there! Welcome to Cloud9 IDE!
+### About the Project
 
-To get you started, we included a small hello world application.
+To create a simple website using HTML5 and CSS with links to 3 seperate pages, with each page displaying image cards of all the 
+various programming languages and tools that we will learn during the course, all with links to information on 
+Wikipedia.
 
-1) Open the hello-world.html file
+### Technologies Used
 
-2) Click on the Preview button to open a live preview pane
+HTML5 & CSS for creating the web page.
 
-3) Make some changes to the file, save, watch the preview, and have fun!
+Cloud 9 IDE and using Git, Nano & Github for creating repositories & commits
 
-Happy coding!
-The Cloud9 IDE team
+### Live Preview  
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+https://thepixel8or.github.io/my-first-website/
